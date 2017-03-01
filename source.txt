@@ -1,4 +1,3 @@
 
-add from terminal
+From branch tree
 
-creat branch from terminal
